@@ -1,12 +1,12 @@
-#include <stdio.h>
+
 /*
+Covert Decimal Number to Binary Number.......
 Input 1: 4
 Output 1: 100
 Input 2: 20
 Output 2:
-
-
 */
+#include <stdio.h>
 int main()
 {
     int n, x, a[10], sum = 0, i = 0;
